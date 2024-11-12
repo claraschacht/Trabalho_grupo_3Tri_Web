@@ -13,7 +13,7 @@ ul {
 }
 
 a {
-    color: rgb(34, 33, 33);
+    color: rgb(0 48 255);
     text-decoration: none;
 }
 
@@ -29,7 +29,7 @@ header img {
 }
 
 h1 {
-    color: #56c280b7;
+    color: #a85fb2b7;
 }
 
 footer img {
@@ -60,7 +60,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #56c280b7;
+    color: #00093d;
 }
 
 .contact-form input{
@@ -74,9 +74,9 @@ nav a:hover {
 }
 
 button {
-    color: rgb(34, 33, 33);;
+    color: rgb(182 93 93);;
     background-color: white;
-    border: none;
+    border: tomato;
     width: 100px;
     height: 30px;
 }
